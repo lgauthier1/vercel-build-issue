@@ -13,6 +13,9 @@ npm run dev
 ```
 
 # Deploy 
+
+ℹ️ Keep all the default choices during Vercel setup from the CLI.
+
 ```bash
 npm run deploy
 ```
