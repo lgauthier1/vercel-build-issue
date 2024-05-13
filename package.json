@@ -7,11 +7,13 @@
   "scripts": {
     "start": "node api/index.js",
     "dev": "node api/index.js",
+    "deploy": "vercel",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "vercel": "^34.1.14"
   }
 }
