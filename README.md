@@ -1,6 +1,8 @@
 # vercel-build-issue
 A subset of causes demonstrates a strange issue in the build. The issue occurs when the project is deployed to Vercel (with Vercel CLI 34.1.7). The issue is not reproducible in the local environment.
-(More details in the [issue](https://github.com/orgs/vercel/discussions/6714)
+(More details in the [issue](https://github.com/orgs/vercel/discussions/6714))
+
+15/05/2024 > Issue has been solved by vercel Team ! 
 
 # Install
 ```bash
